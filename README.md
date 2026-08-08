@@ -1,4 +1,4 @@
-# Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
+# Ex 2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 ### NAME - HARSHITHA V
 ### REG NO - 212223230074
 # AIM
@@ -72,7 +72,8 @@ int yywrap() {
 
 # OUTPUT
 
-<img width="631" height="276" alt="image" src="https://github.com/user-attachments/assets/0c764100-6492-4197-a2ff-7666d6dd3567" />
+<img width="880" height="502" alt="image" src="https://github.com/user-attachments/assets/bb1fd41b-4899-44bb-80c6-6ffd9c13acfa" />
+
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
